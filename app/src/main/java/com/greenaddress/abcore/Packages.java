@@ -5,9 +5,9 @@ import java.util.List;
 
 class Packages {
 
-    final static String BITCOIN_NDK = "0.19.0.1";
-    final static String BITCOIN_KNOTS_NDK = "0.18.1";
-    final static String BITCOIN_LIQUID_NDK = "0.18.1.3";
+    final static String BITCOIN_NDK = "0.21.0";
+    final static String BITCOIN_KNOTS_NDK = "0.21.0";
+    final static String BITCOIN_LIQUID_NDK = "0.18.1.9";
 
     // these three lists are the output of ./run.sh on bitcoin_ndk
     // size in bytes, arch, and sha256 of the native build
