@@ -1,7 +1,7 @@
 ABCore - Android Bitcoin Core
 =============================
 
-[![Build Status](https://travis-ci.org/greenaddress/abcore.svg?branch=master)](https://travis-ci.org/greenaddress/abcore)
+[![Build Status](https://travis-ci.com/Rybo713/bitcoin_ndk.svg?branch=master)](https://travis-ci.com/github/Rybo713/abcore)
 
 <a href="http://abco.re"> <img src="http://abco.re/assets/images/schema.png" alt="Infographic" width="650" height="650"></a>
 
@@ -55,6 +55,9 @@ Acknowledgement
 
 Lawrence Nahum
 twitter.com/LarryBitcoin
+
+Ryan Wong
+twitter.com/RyanW713
 
 - Graphic Content
 
